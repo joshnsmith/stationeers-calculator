@@ -1,0 +1,14 @@
+{
+  "contributors": [
+    {
+      "name": "joshnsmith",
+      "github": "joshnsmith",
+      "avatar": "https://github.com/joshnsmith.png",
+      "contributions": [
+        "Initial project setup",
+        "Basic calculator functionality",
+        "Recipe data structure"
+      ]
+    }
+  ]
+} 

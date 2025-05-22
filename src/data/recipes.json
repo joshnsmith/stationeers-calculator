@@ -1,0 +1,115 @@
+{
+    "Solar Panel": {
+        "Gold Ingot": 5,
+        "Copper Ingot": 20,
+        "Steel Ingot": 15
+    },
+    "Solar Panel Basic": {
+        "Iron Ingot": 10,
+        "Gold Ingot": 2,
+        "Copper Ingot": 10
+    },
+    "Solar Panel Basic Heavy": {
+        "Copper Ingot": 10,
+        "Steel Ingot": 10,
+        "Electrum Ingot": 2,
+        "Invar Ingot": 10
+    },
+    "Solar Panel Heavy": {
+        "Copper Ingot": 20,
+        "Steel Ingot": 10,
+        "Electrum Ingot": 5,
+        "Astroloy Ingot": 15
+    },
+    "Steel Ingot": {
+        "Iron Ingot": 0.75,
+        "Hydrocarbon Ingot": 0.25,
+        "smelt": true
+    },
+    "Hydrocarbon Ingot": {
+        "Coal Ore": 1,
+        "smelt": true
+    },
+    "Copper Ingot": {
+        "Copper Ore": 1,
+        "smelt": true
+    },
+    "Gold Ingot": {
+        "Gold Ore": 1,
+        "smelt": true
+    },
+    "Silver Ingot": {
+        "Silver Ore": 1,
+        "smelt": true
+    },
+    "Glass": {
+        "Silicon Ingot": 2,
+        "smelt": true
+    },
+    "Silicon Ingot": {
+        "Silicon Ore": 1,
+        "smelt": true
+    },
+    "Iron Ingot": {
+        "Iron Ore": 1,
+        "smelt": true
+    },
+    "Astroloy Ingot": {
+        "Steel Ingot": 2,
+        "Copper Ingot": 1,
+        "Cobalt Ingot": 1,
+        "smelt": true
+    },
+    "Cobalt Ingot": {
+        "Cobalt Ore": 1,
+        "smelt": true
+    },
+    "Nickel Ingot": {
+        "Nickel Ore": 1,
+        "smelt": true
+    },
+    "Waspalloy Ingot": {
+        "Lead Ingot": 2,
+        "Silver Ingot": 1,
+        "Nickel Ingot": 1,
+        "smelt": true
+    },
+    "Invar Ingot": {
+        "Iron Ingot": 0.5,
+        "Nickel Ingot": 0.5,
+        "smelt": true
+    },
+    "Stellite Ingot": {
+        "Silicon Ingot": 2,
+        "Silver Ingot": 1,
+        "Cobalt Ingot": 1,
+        "smelt": true
+    },
+    "Constantan Ingot": {
+        "Copper Ingot": 0.5,
+        "Nickel Ingot": 0.5,
+        "smelt": true
+    },
+    "Electrum Ingot": {
+        "Gold Ingot": 0.5,
+        "Silver Ingot": 0.5,
+        "smelt": true
+    },
+    "Solder Ingot": {
+        "Copper Ingot": 0.5,
+        "Lead Ingot": 0.5,
+        "smelt": true
+    },
+    "Inconel Ingot": {
+        "Gold Ingot": 2,
+        "Nickel Ingot": 1,
+        "Cobalt Ingot": 1,
+        "smelt": true
+    },
+    "Hastelloy Ingot": {
+        "Silver Ingot": 2,
+        "Nickel Ingot": 1,
+        "Steel Ingot": 1,
+        "smelt": true
+    }
+}
