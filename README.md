@@ -5,6 +5,20 @@ A web-based calculator for Stationeers that helps players calculate the required
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
+## ⚠️ Legal Disclaimer
+
+This project is not affiliated with, authorized, maintained, sponsored, or endorsed by RocketWerkz or any of its affiliates or subsidiaries. This is an independent and unofficial fan-made project.
+
+All game-related content, including but not limited to:
+- Item names
+- Material names
+- Recipe data
+- Game mechanics
+
+are the property of RocketWerkz and are used in accordance with their [Terms of Service](https://rocketwerkz.com/terms-of-service/).
+
+This project is created for educational purposes and to help the Stationeers community. All game-related content is used under fair use principles.
+
 ## 🎮 Features
 
 - Calculate required materials for crafting items

@@ -18,7 +18,7 @@ export const Navigation = () => {
             Home
           </Link>
           <a 
-            href="https://github.com/joshe/stationeers-calculator" 
+            href="https://github.com/joshnsmith/stationeers-calculator" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-white hover:text-gray-300 transition-colors duration-200"
