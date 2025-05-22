@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joshnsmith.github.io/stationeers-calculator/sitemap.xml
